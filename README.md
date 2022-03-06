@@ -1,5 +1,5 @@
 # 
-# Desafio de Programação 02 - Academia Capgemini
+# Desafio de Programação 02 - Academia Capgemini 2022
 
 # Questão 01
 
@@ -43,7 +43,7 @@ Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [
 
 Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 
-<=linha<=coluna<=
+√T<=linha<=coluna<=√T
 
 Considere T, como o tamanho do texto.
 Se certifique de que linhas x colunas >= .
@@ -67,7 +67,7 @@ taoa eum nmd hbi
 
 Explicação:
 
-Depois de remover os espaços, a string tem 13 caracteres.  está entre 3 e 4, então a string é rescrita na forma de um grid com 4 linhas e 4 colunas:
+Depois de remover os espaços, a string tem 13 caracteres. √13 está entre 3 e 4, então a string é rescrita na forma de um grid com 4 linhas e 4 colunas:
 
 tenh
 aumb
