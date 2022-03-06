@@ -2,6 +2,7 @@
 
 Esse projeto foi desenvolvido na linguagem java utilizando a IDE Eclipse, nele é apresentado a solução das questões listadas abaixo.
 Os arquivos estão contidos em src/br/com/capgemini, onde, nele contém mais 3 pacotes cada um contendo a solução de suas referidas questões. 
+
 Para que tenha exito na execução é necessario que tenha o pacote JDK/JRE instalado em sua máquina.
 
 # Instalação
@@ -9,6 +10,7 @@ Para que tenha exito na execução é necessario que tenha o pacote JDK/JRE inst
 Instalando com git:
 
 $ git clone https://github.com/fernandaoliverc/challenge-02
+
 (OBS:O Arquivo pode ser baixado em sua máquina e ser adicionado de forma manual em sua IDE de preferência).
 
 Importando projeto no Eclipse (OBS: Pode ser utilizada qualquer outra IDE)
@@ -30,7 +32,8 @@ Saída:
 4
 
 # Saída da Solução - Questão 01:
-![questao-01](https://user-images.githubusercontent.com/64935311/156936181-a0a22632-522f-4719-bfe6-e79b22012c87.jpg)
+![questao-01](https://user-images.githubusercontent.com/64935311/156937829-29dee4fe-07c0-498a-9088-c2e1927016a0.jpg)
+
 
 # Questão 02
 
