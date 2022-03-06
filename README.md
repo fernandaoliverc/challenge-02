@@ -100,7 +100,9 @@ mun
 do
 
 # Saída da Solução - Questão 03:
+
 Exemplo 1
+
 ![questao-03-ex01](https://user-images.githubusercontent.com/64935311/156936514-aca77e8a-fb4e-4943-894e-c116e1cb49d5.jpg)
 
 Ezxemplo 2
