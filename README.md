@@ -32,7 +32,8 @@ Saída:
 4
 
 # Saída da Solução - Questão 01:
-![questao-01](https://user-images.githubusercontent.com/64935311/156937926-46bb8e2a-7b85-49bd-b862-1cc006dafb43.jpg)
+![questao-01](https://user-images.githubusercontent.com/64935311/156937982-81129b32-5a9c-46de-bf8c-2eb8b23327a9.jpg)
+
 
 
 
