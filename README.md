@@ -1,5 +1,19 @@
-# 
 # Desafio de Programação 02 - Academia Capgemini 2022
+
+Esse projeto foi desenvolvido na linguagem java utilizando a IDE Eclipse, nele é apresentado a solução das questões listadas abaixo.
+Os arquivos estão contidos em src/br/com/capgemini, onde, nele contém mais 3 pacotes cada um contendo a solução de suas referidas questões. 
+Para que tenha exito na execução é necessario que tenha o pacote JDK/JRE instalado em sua máquina.
+
+# Instalação
+
+Instalando com git:
+
+$ git clone https://github.com/fernandaoliverc/challenge-02
+(OBS:O Arquivo pode ser baixado em sua máquina e ser adicionado de forma manual em sua IDE de preferência).
+
+Importando projeto no Eclipse (OBS: Pode ser utilizada qualquer outra IDE)
+
+File -> Import -> File System -> Selecione o diretório do projeto clonado.
 
 # Questão 01
 
